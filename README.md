@@ -1,4 +1,4 @@
-#Plugin Priorities:
+# Plugin Priorities:
 
 This is an organized Github repository for work on PersistentHistory. Plugins will be listed in seperate branches, and are to be submitted via pull requests.
 
@@ -12,13 +12,13 @@ Key:
 & - Wanted, But Not Vital.
 
 Plugins:
-##- Character Cards (Easy)
+## - Character Cards (Easy)
 	- Must be in-sync with the Calendar plugin API. An API for the Calendar plugin should also be theoretically developed.
 	- Character Descriptions must be dynamic and in-sync with the characters age.
 	- Random chances of a character dying will increase as the age gets higher, and child mortality rates may be factored in earlier in life to increase realism.
 		- When a person dies, the person should be notified as well as it being a gradual process instead of a sudden process.
 	- Disesases will also be applied to a person's character card, as well as a dynamic title.
-##- Knowledge Trees (Individual)
+## - Knowledge Trees (Individual)
 	- To be a research skill tree, combat skills are not essential, but it should contain the following:
 		- Mining
 		- Woodcutting
