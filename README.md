@@ -28,9 +28,9 @@ Plugins:
 		- Farming
 		- And all other major civilian sectors at this time.
 		* Ideally, make it a web, but prioritize making it a skill tree instead of a skill web. This may be re-evaluated later on.
-Online Priorities:
+# Online Priorities:
 
-Individual Bulletins:
+## Individual Bulletins:
 
 Tyler: 
 
