@@ -165,12 +165,12 @@ than group entities as a whole.
 > ### Priorities:
 
 ----------
-###Interactive Dynmap [Online]:
+### Interactive Dynmap [Online]:
 > ###### Interactive Dynmap is an online site viewed [here](http://www.editey.com/preview/1mUnoMVzUnZCvarQ_yx7VHTHLk6Lk88P9/index.html?pe=incognistructura@gmail.com), thatis not to be confused with the main *Imperium* Game map. It is currently a work-in-progress and not close to finishing. It is expected to need additional help sometime later on in the development stage, likely from digital artists.
 
-###Configuration Files [Server]:
+### Configuration Files [Server]:
 > ###### Configuration Files must be constantly maintained through the FTP file client, and will be vastly expanded and improved upon in order to make sure that the quality of the Minecraft Server *Persistent History* is maintained and held to a quality that players can trust. This is mainly managed by Incogni, however, other developers may be able to change configuration files themselves as well.
 
-###Pex [Server]:
+### Pex [Server]:
 > ###### Pex config files have already been completed, however a couple more ranks such as *Film Maker* and *RP Advocate* may be added in the future. Pex will also have to be built in into the character plugin, as it will be able to give players their rank as well as prefix in order to denote to other fellow Persistent Historians what their rank in the server is. The hierarchy is as follows: 
 > > **Slave, Serf, Peasant, Craftsman, Lord, Knight, Count, Duke, Bishop, Cardinal, King, Emperor; for non-donators. For Donators: DonatorSlave, DonatorSerf, DonatorPeasant, DonatorCraftsman, DonatorLord, DonatorKnight, DonatorCount, DonatorDuke, DonatorBishop, DonatorCardinal, DonatorKing, and DonatorEmperor are the main ranks. These must be built in to the main *Character Cards* GUI.**
