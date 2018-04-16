@@ -142,7 +142,7 @@ than group entities as a whole.
 > ### Priorities:
 
 ----------
-### Rolling Plugin [Easy]:
+### Rolling Plugin [Easy] [On Hold]:
 > ###### The Rolling Plugin is a plugin for Minecraft 1.12.2 that will enhance roleplay and combat capabilities by allowing each player to randomly roll. This is done via a pseudo-random algorithm that has specified both a `min` and a `max`. This will also come out with an API that will use the designated variable `$ph.ro` in order to streamline processes. The rolling plugin will output via either public or private chat via a designated Towny Channel which is up to the individual player.
 
 ### xXRed_MinerXx: 
@@ -165,7 +165,7 @@ than group entities as a whole.
 > ### Priorities:
 
 ----------
-### Interactive Dynmap [Online]:
+### Interactive Dynmap [Online] [On Hold]:
 > ###### Interactive Dynmap is an online site viewed [here](http://www.editey.com/preview/1mUnoMVzUnZCvarQ_yx7VHTHLk6Lk88P9/index.html?pe=incognistructura@gmail.com), thatis not to be confused with the main *Imperium* Game map. It is currently a work-in-progress and not close to finishing. It is expected to need additional help sometime later on in the development stage, likely from digital artists.
 
 ### Configuration Files [Server]:
