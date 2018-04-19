@@ -157,14 +157,15 @@ than group entities as a whole.
 
 > ### Priorities: 
 
-----------
-### Character Cards [Easy]:
-> ###### Character Cards is a plugin that will and must be configured with a workable API, API variable being `$ph.cc` global that may be used in coordination with other plugins. Character Cards are dynamic descriptions a given player  
+
 
 ### IncogniStructura: 
 > ### Priorities:
 
 ----------
+### Character Cards [Easy]:
+> ###### Character Cards is a plugin that will and must be configured with a workable API, API variable being `$ph.cc` global that may be used in coordination with other plugins. Character Cards are dynamic descriptions a given player  
+
 ### Interactive Dynmap [Online] [On Hold]:
 > ###### Interactive Dynmap is an online site viewed [here](http://www.editey.com/preview/1mUnoMVzUnZCvarQ_yx7VHTHLk6Lk88P9/index.html?pe=incognistructura@gmail.com), thatis not to be confused with the main *Imperium* Game map. It is currently a work-in-progress and not close to finishing. It is expected to need additional help sometime later on in the development stage, likely from digital artists.
 
